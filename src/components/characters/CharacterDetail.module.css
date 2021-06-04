@@ -50,6 +50,13 @@ button {
   cursor: pointer;
 }
 
+.loadingBox {
+  position: relative;
+  padding-top: 40vh;
+  height: 100vh;
+  background: var(--blue);
+}
+
 .loadingMessage {
   margin-top: 40vh;
 }
