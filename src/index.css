@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'Roddenberry';
+  src: local('Roddenberry-DgLm'), url('./fonts/Roddenberry-DgLm.ttf') format('truetype')
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
